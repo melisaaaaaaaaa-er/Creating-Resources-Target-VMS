@@ -1,4 +1,4 @@
-# Creating Resources - Target VMS
+# Creating Resources - Target VMs
 
 <h2>Purpose</h2>
 

@@ -7,6 +7,7 @@
 - Disable Windows Firewall from within windows-vm.
 
 #
+<h3>Create the Honeypot VMs - Windows and Linux</h3>
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Creating-Resources-Target-VMS-Images/main/1.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Creating-Resources-Target-VMS-Images/main/2.png"/>

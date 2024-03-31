@@ -2,7 +2,7 @@
 
 <h2>Purpose</h2>
 
-- Set up a Windows and Linux virtual machine.
+- Set up a Windows and Linux honeypot virtual machines.
 - Configure inbound rule on their respective network security groups (NSGs) to allow all traffic from the Internet.
 - Disable Windows Firewall from within windows-vm.
 
